@@ -1,0 +1,9 @@
+---
+src/add.c:
+- TEST
+src/stateMachine.c:
+- TEST
+src/common.c:
+- TEST
+src/lightStateMachine.c:
+- TEST

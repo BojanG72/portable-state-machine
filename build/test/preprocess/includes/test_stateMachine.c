@@ -1,0 +1,5 @@
+---
+- "/home/bojan/Documents/myRepos/stateMachineExample/vendor/ceedling/vendor/unity/src/unity.h"
+- inc/common.h
+- inc/stateMachine.h
+- inc/lightStateMachine.h
